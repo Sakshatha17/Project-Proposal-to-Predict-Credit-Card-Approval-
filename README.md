@@ -33,3 +33,8 @@ The project deals with predicting values based on classification algorithm which
 - The Project's Data Cleaning part, EDA and Feauture Engineering,ML is Done in the file Below.
 
   [The Project File ](https://github.com/Sakshatha17/Project-Proposal-to-Predict-Credit-Card-Approval-/blob/main/Analysing%20Credit_Card_%20Dataset.ipynb)
+
+
+- Performed Data Analysis by using Mysql tool and obtained some insights from it.
+- The queries we performed is saved in a file and linked below.
+- [The Mysql File](https://github.com/Sakshatha17/Project-Proposal-to-Predict-Credit-Card-Approval-/blob/main/Credit%20Card%20SQL.sql)
